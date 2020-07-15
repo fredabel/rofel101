@@ -17,7 +17,7 @@ if(isset($_POST['action'])){
 	$stmt->bind_param("ss", $username, $lastname); 
 	$stmt->execute();
 
-	header('Location: /rofel_v1');
+	header('Location: /rofel101');
 	}   
 
 	//Update Method

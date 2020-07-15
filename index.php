@@ -11,12 +11,12 @@
     <body>
     <div class="container">
 
-		<!-- <form class="form-group" action="welcome.php" method="post">
+		<form class="form-group" action="welcome.php" method="post">
 			<input type="hidden" value="insert" name="action">
 		Name: <input type="text" name="name"><br>
 		Lastname: <input type="text" name="lastname"><br>
 		<input type="submit">
-		</form> -->
+		</form>
 		<div id="loading">Loading...</div>
 		<div class="content" >
 		<table class="table" border="1">

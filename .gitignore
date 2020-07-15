@@ -1,0 +1,4 @@
+!website
+website/assets/*
+!website/assets/
+!website/assets/common
